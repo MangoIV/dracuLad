@@ -1,0 +1,668 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L keebio:ProMicro U?
+U 1 1 5FB16BB9
+P 2050 2000
+F 0 "U?" H 2050 2837 60  0000 C CNN
+F 1 "ProMicro" H 2050 2731 60  0000 C CNN
+F 2 "" V 3100 -500 60  0001 C CNN
+F 3 "" V 3100 -500 60  0001 C CNN
+	1    2050 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D?
+U 1 1 5FB1A7E4
+P 9750 1950
+F 0 "D?" H 9406 1904 50  0000 R CNN
+F 1 "WS2812B" H 9406 1995 50  0000 R CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 9800 1650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 9850 1575 50  0001 L TNN
+	1    9750 1950
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB323B1
+P 4900 1300
+F 0 "MX?" H 4933 1523 60  0000 C CNN
+F 1 "MX-NoLED" H 4933 1449 20  0000 C CNN
+F 2 "" H 4275 1275 60  0001 C CNN
+F 3 "" H 4275 1275 60  0001 C CNN
+	1    4900 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB3417F
+P 5350 1300
+F 0 "MX?" H 5383 1523 60  0000 C CNN
+F 1 "MX-NoLED" H 5383 1449 20  0000 C CNN
+F 2 "" H 4725 1275 60  0001 C CNN
+F 3 "" H 4725 1275 60  0001 C CNN
+	1    5350 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB34604
+P 5750 1300
+F 0 "MX?" H 5783 1523 60  0000 C CNN
+F 1 "MX-NoLED" H 5783 1449 20  0000 C CNN
+F 2 "" H 5125 1275 60  0001 C CNN
+F 3 "" H 5125 1275 60  0001 C CNN
+	1    5750 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB34B53
+P 6150 1300
+F 0 "MX?" H 6183 1523 60  0000 C CNN
+F 1 "MX-NoLED" H 6183 1449 20  0000 C CNN
+F 2 "" H 5525 1275 60  0001 C CNN
+F 3 "" H 5525 1275 60  0001 C CNN
+	1    6150 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB35275
+P 6550 1300
+F 0 "MX?" H 6583 1523 60  0000 C CNN
+F 1 "MX-NoLED" H 6583 1449 20  0000 C CNN
+F 2 "" H 5925 1275 60  0001 C CNN
+F 3 "" H 5925 1275 60  0001 C CNN
+	1    6550 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB37E94
+P 4900 2000
+F 0 "MX?" H 4933 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 4933 2149 20  0000 C CNN
+F 2 "" H 4275 1975 60  0001 C CNN
+F 3 "" H 4275 1975 60  0001 C CNN
+	1    4900 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB37E9A
+P 5350 2000
+F 0 "MX?" H 5383 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 5383 2149 20  0000 C CNN
+F 2 "" H 4725 1975 60  0001 C CNN
+F 3 "" H 4725 1975 60  0001 C CNN
+	1    5350 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB37EA0
+P 5750 2000
+F 0 "MX?" H 5783 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 5783 2149 20  0000 C CNN
+F 2 "" H 5125 1975 60  0001 C CNN
+F 3 "" H 5125 1975 60  0001 C CNN
+	1    5750 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB37EA6
+P 6150 2000
+F 0 "MX?" H 6183 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 6183 2149 20  0000 C CNN
+F 2 "" H 5525 1975 60  0001 C CNN
+F 3 "" H 5525 1975 60  0001 C CNN
+	1    6150 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB37EAC
+P 6550 2000
+F 0 "MX?" H 6583 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 6583 2149 20  0000 C CNN
+F 2 "" H 5925 1975 60  0001 C CNN
+F 3 "" H 5925 1975 60  0001 C CNN
+	1    6550 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB39317
+P 4900 2800
+F 0 "MX?" H 4933 3023 60  0000 C CNN
+F 1 "MX-NoLED" H 4933 2949 20  0000 C CNN
+F 2 "" H 4275 2775 60  0001 C CNN
+F 3 "" H 4275 2775 60  0001 C CNN
+	1    4900 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB3931D
+P 5350 2800
+F 0 "MX?" H 5383 3023 60  0000 C CNN
+F 1 "MX-NoLED" H 5383 2949 20  0000 C CNN
+F 2 "" H 4725 2775 60  0001 C CNN
+F 3 "" H 4725 2775 60  0001 C CNN
+	1    5350 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB39323
+P 5750 2800
+F 0 "MX?" H 5783 3023 60  0000 C CNN
+F 1 "MX-NoLED" H 5783 2949 20  0000 C CNN
+F 2 "" H 5125 2775 60  0001 C CNN
+F 3 "" H 5125 2775 60  0001 C CNN
+	1    5750 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB39329
+P 6150 2800
+F 0 "MX?" H 6183 3023 60  0000 C CNN
+F 1 "MX-NoLED" H 6183 2949 20  0000 C CNN
+F 2 "" H 5525 2775 60  0001 C CNN
+F 3 "" H 5525 2775 60  0001 C CNN
+	1    6150 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB3932F
+P 6550 2800
+F 0 "MX?" H 6583 3023 60  0000 C CNN
+F 1 "MX-NoLED" H 6583 2949 20  0000 C CNN
+F 2 "" H 5925 2775 60  0001 C CNN
+F 3 "" H 5925 2775 60  0001 C CNN
+	1    6550 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB426A8
+P 5750 3500
+F 0 "MX?" H 5783 3723 60  0000 C CNN
+F 1 "MX-NoLED" H 5783 3649 20  0000 C CNN
+F 2 "" H 5125 3475 60  0001 C CNN
+F 3 "" H 5125 3475 60  0001 C CNN
+	1    5750 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB426AE
+P 6150 3500
+F 0 "MX?" H 6183 3723 60  0000 C CNN
+F 1 "MX-NoLED" H 6183 3649 20  0000 C CNN
+F 2 "" H 5525 3475 60  0001 C CNN
+F 3 "" H 5525 3475 60  0001 C CNN
+	1    6150 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5FB426B4
+P 6550 3500
+F 0 "MX?" H 6583 3723 60  0000 C CNN
+F 1 "MX-NoLED" H 6583 3649 20  0000 C CNN
+F 2 "" H 5925 3475 60  0001 C CNN
+F 3 "" H 5925 3475 60  0001 C CNN
+	1    6550 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB47AD5
+P 6500 1550
+F 0 "D?" V 6546 1480 50  0000 R CNN
+F 1 "D_Small" V 6455 1480 50  0000 R CNN
+F 2 "" V 6500 1550 50  0001 C CNN
+F 3 "~" V 6500 1550 50  0001 C CNN
+	1    6500 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB4D103
+P 6100 1550
+F 0 "D?" V 6146 1480 50  0000 R CNN
+F 1 "D_Small" V 6055 1480 50  0000 R CNN
+F 2 "" V 6100 1550 50  0001 C CNN
+F 3 "~" V 6100 1550 50  0001 C CNN
+	1    6100 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB4D5DA
+P 5700 1550
+F 0 "D?" V 5746 1480 50  0000 R CNN
+F 1 "D_Small" V 5655 1480 50  0000 R CNN
+F 2 "" V 5700 1550 50  0001 C CNN
+F 3 "~" V 5700 1550 50  0001 C CNN
+	1    5700 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB4DB62
+P 5300 1550
+F 0 "D?" V 5346 1480 50  0000 R CNN
+F 1 "D_Small" V 5255 1480 50  0000 R CNN
+F 2 "" V 5300 1550 50  0001 C CNN
+F 3 "~" V 5300 1550 50  0001 C CNN
+	1    5300 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB4DFED
+P 4850 1550
+F 0 "D?" V 4896 1480 50  0000 R CNN
+F 1 "D_Small" V 4805 1480 50  0000 R CNN
+F 2 "" V 4850 1550 50  0001 C CNN
+F 3 "~" V 4850 1550 50  0001 C CNN
+	1    4850 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB51AA0
+P 6500 2250
+F 0 "D?" V 6546 2180 50  0000 R CNN
+F 1 "D_Small" V 6455 2180 50  0000 R CNN
+F 2 "" V 6500 2250 50  0001 C CNN
+F 3 "~" V 6500 2250 50  0001 C CNN
+	1    6500 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB51AA6
+P 6100 2250
+F 0 "D?" V 6146 2180 50  0000 R CNN
+F 1 "D_Small" V 6055 2180 50  0000 R CNN
+F 2 "" V 6100 2250 50  0001 C CNN
+F 3 "~" V 6100 2250 50  0001 C CNN
+	1    6100 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB51AAC
+P 5700 2250
+F 0 "D?" V 5746 2180 50  0000 R CNN
+F 1 "D_Small" V 5655 2180 50  0000 R CNN
+F 2 "" V 5700 2250 50  0001 C CNN
+F 3 "~" V 5700 2250 50  0001 C CNN
+	1    5700 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB51AB2
+P 5300 2250
+F 0 "D?" V 5346 2180 50  0000 R CNN
+F 1 "D_Small" V 5255 2180 50  0000 R CNN
+F 2 "" V 5300 2250 50  0001 C CNN
+F 3 "~" V 5300 2250 50  0001 C CNN
+	1    5300 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB51AB8
+P 4850 2250
+F 0 "D?" V 4896 2180 50  0000 R CNN
+F 1 "D_Small" V 4805 2180 50  0000 R CNN
+F 2 "" V 4850 2250 50  0001 C CNN
+F 3 "~" V 4850 2250 50  0001 C CNN
+	1    4850 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB58E30
+P 6500 3050
+F 0 "D?" V 6546 2980 50  0000 R CNN
+F 1 "D_Small" V 6455 2980 50  0000 R CNN
+F 2 "" V 6500 3050 50  0001 C CNN
+F 3 "~" V 6500 3050 50  0001 C CNN
+	1    6500 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB58E36
+P 6100 3050
+F 0 "D?" V 6146 2980 50  0000 R CNN
+F 1 "D_Small" V 6055 2980 50  0000 R CNN
+F 2 "" V 6100 3050 50  0001 C CNN
+F 3 "~" V 6100 3050 50  0001 C CNN
+	1    6100 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB58E3C
+P 5700 3050
+F 0 "D?" V 5746 2980 50  0000 R CNN
+F 1 "D_Small" V 5655 2980 50  0000 R CNN
+F 2 "" V 5700 3050 50  0001 C CNN
+F 3 "~" V 5700 3050 50  0001 C CNN
+	1    5700 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB58E42
+P 5300 3050
+F 0 "D?" V 5346 2980 50  0000 R CNN
+F 1 "D_Small" V 5255 2980 50  0000 R CNN
+F 2 "" V 5300 3050 50  0001 C CNN
+F 3 "~" V 5300 3050 50  0001 C CNN
+	1    5300 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB58E48
+P 4850 3050
+F 0 "D?" V 4896 2980 50  0000 R CNN
+F 1 "D_Small" V 4805 2980 50  0000 R CNN
+F 2 "" V 4850 3050 50  0001 C CNN
+F 3 "~" V 4850 3050 50  0001 C CNN
+	1    4850 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB5CACD
+P 6500 3750
+F 0 "D?" V 6546 3680 50  0000 R CNN
+F 1 "D_Small" V 6455 3680 50  0000 R CNN
+F 2 "" V 6500 3750 50  0001 C CNN
+F 3 "~" V 6500 3750 50  0001 C CNN
+	1    6500 3750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB5D4D0
+P 6100 3750
+F 0 "D?" V 6146 3680 50  0000 R CNN
+F 1 "D_Small" V 6055 3680 50  0000 R CNN
+F 2 "" V 6100 3750 50  0001 C CNN
+F 3 "~" V 6100 3750 50  0001 C CNN
+	1    6100 3750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5FB5DBC9
+P 5700 3750
+F 0 "D?" V 5746 3680 50  0000 R CNN
+F 1 "D_Small" V 5655 3680 50  0000 R CNN
+F 2 "" V 5700 3750 50  0001 C CNN
+F 3 "~" V 5700 3750 50  0001 C CNN
+	1    5700 3750
+	0    -1   -1   0   
+$EndComp
+Text GLabel 4700 1650 0    50   Input ~ 0
+row0
+Text GLabel 4700 2350 0    50   Input ~ 0
+row1
+Text GLabel 4650 3150 0    50   Input ~ 0
+row2
+Text GLabel 4650 3850 0    50   Input ~ 0
+row3
+Text GLabel 5050 900  1    50   Input ~ 0
+col0
+Text GLabel 5500 900  1    50   Input ~ 0
+col1
+Text GLabel 5900 900  1    50   Input ~ 0
+col2
+Text GLabel 6300 900  1    50   Input ~ 0
+col3
+Text GLabel 6700 900  1    50   Input ~ 0
+col4
+Wire Wire Line
+	4650 3150 4850 3150
+Connection ~ 4850 3150
+Wire Wire Line
+	4850 3150 5300 3150
+Connection ~ 5300 3150
+Wire Wire Line
+	5300 3150 5700 3150
+Connection ~ 5700 3150
+Wire Wire Line
+	5700 3150 6100 3150
+Connection ~ 6100 3150
+Wire Wire Line
+	6100 3150 6500 3150
+Connection ~ 5700 3850
+Wire Wire Line
+	5700 3850 6100 3850
+Connection ~ 6100 3850
+Wire Wire Line
+	6100 3850 6500 3850
+Wire Wire Line
+	4700 1650 4850 1650
+Connection ~ 4850 1650
+Wire Wire Line
+	4850 1650 5300 1650
+Connection ~ 5300 1650
+Wire Wire Line
+	5300 1650 5700 1650
+Connection ~ 5700 1650
+Wire Wire Line
+	5700 1650 6100 1650
+Connection ~ 6100 1650
+Wire Wire Line
+	6100 1650 6500 1650
+Wire Wire Line
+	4700 2350 4850 2350
+Connection ~ 4850 2350
+Wire Wire Line
+	4850 2350 5300 2350
+Connection ~ 5300 2350
+Wire Wire Line
+	5300 2350 5700 2350
+Connection ~ 5700 2350
+Wire Wire Line
+	5700 2350 6100 2350
+Connection ~ 6100 2350
+Wire Wire Line
+	6100 2350 6500 2350
+Wire Wire Line
+	5050 900  5050 1250
+Connection ~ 5050 1250
+Wire Wire Line
+	5050 1250 5050 1950
+Connection ~ 5050 1950
+Wire Wire Line
+	5050 1950 5050 2750
+Wire Wire Line
+	5500 900  5500 1250
+Connection ~ 5500 1250
+Wire Wire Line
+	5500 1250 5500 1950
+Connection ~ 5500 1950
+Wire Wire Line
+	5500 1950 5500 2750
+Wire Wire Line
+	5900 900  5900 1250
+Connection ~ 5900 1250
+Wire Wire Line
+	5900 1250 5900 1950
+Connection ~ 5900 1950
+Wire Wire Line
+	5900 1950 5900 2750
+Wire Wire Line
+	6300 900  6300 1250
+Connection ~ 6300 1250
+Wire Wire Line
+	6300 1250 6300 1950
+Connection ~ 6300 1950
+Wire Wire Line
+	6300 1950 6300 2750
+Wire Wire Line
+	6700 900  6700 1250
+Connection ~ 6700 1250
+Wire Wire Line
+	6700 1250 6700 1950
+Connection ~ 6700 1950
+Wire Wire Line
+	6700 1950 6700 2750
+Wire Wire Line
+	5900 2750 5900 3450
+Connection ~ 5900 2750
+Wire Wire Line
+	6300 2750 6300 3450
+Connection ~ 6300 2750
+Wire Wire Line
+	6700 3450 6700 2750
+Connection ~ 6700 2750
+Text GLabel 2750 1850 2    50   Input ~ 0
+col0
+Text GLabel 1350 1850 0    50   Input ~ 0
+sda
+Text GLabel 1350 1950 0    50   Input ~ 0
+scl
+Text GLabel 1350 1750 0    50   Input ~ 0
+ground
+Text GLabel 1350 1650 0    50   Input ~ 0
+ground
+Text GLabel 2150 3450 0    50   Input ~ 0
+ground
+Text GLabel 2750 1550 2    50   Input ~ 0
+ground
+$Comp
+L power:GND #PWR?
+U 1 1 5FB9F93D
+P 2400 3450
+F 0 "#PWR?" H 2400 3200 50  0001 C CNN
+F 1 "GND" H 2405 3277 50  0000 C CNN
+F 2 "" H 2400 3450 50  0001 C CNN
+F 3 "" H 2400 3450 50  0001 C CNN
+	1    2400 3450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 3450 2400 3450
+Text GLabel 2150 3350 0    50   Input ~ 0
+power
+$Comp
+L power:VCC #PWR?
+U 1 1 5FBA123E
+P 2400 3350
+F 0 "#PWR?" H 2400 3200 50  0001 C CNN
+F 1 "VCC" H 2415 3523 50  0000 C CNN
+F 2 "" H 2400 3350 50  0001 C CNN
+F 3 "" H 2400 3350 50  0001 C CNN
+	1    2400 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 3350 2400 3350
+Text GLabel 2750 1750 2    50   Input ~ 0
+power
+Text GLabel 2750 1950 2    50   Input ~ 0
+col1
+Text GLabel 2750 2050 2    50   Input ~ 0
+col2
+Text GLabel 2750 2150 2    50   Input ~ 0
+col3
+Text GLabel 2750 2250 2    50   Input ~ 0
+col3
+Text GLabel 2750 2350 2    50   Input ~ 0
+col4
+Text GLabel 1350 2050 0    50   Input ~ 0
+row0
+Text GLabel 1350 2150 0    50   Input ~ 0
+row1
+Text GLabel 1350 2250 0    50   Input ~ 0
+row2
+Text GLabel 1350 2350 0    50   Input ~ 0
+row3
+$Comp
+L Device:Rotary_Encoder_Switch SW?
+U 1 1 5FBB4FB7
+P 7750 3300
+F 0 "SW?" H 7750 2933 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 7750 3024 50  0000 C CNN
+F 2 "" H 7600 3460 50  0001 C CNN
+F 3 "~" H 7750 3560 50  0001 C CNN
+	1    7750 3300
+	-1   0    0    1   
+$EndComp
+Text GLabel 7450 3200 0    50   Input ~ 0
+enc0col
+Text GLabel 7450 3400 0    50   Input ~ 0
+enc0row
+$Comp
+L Device:Rotary_Encoder_Switch SW?
+U 1 1 5FBE5DD2
+P 7750 4000
+F 0 "SW?" H 7750 3633 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 7750 3724 50  0000 C CNN
+F 2 "" H 7600 4160 50  0001 C CNN
+F 3 "~" H 7750 4260 50  0001 C CNN
+	1    7750 4000
+	-1   0    0    1   
+$EndComp
+Text GLabel 7450 3900 0    50   Input ~ 0
+enc1col
+Text GLabel 7450 4100 0    50   Input ~ 0
+enc1row
+Wire Wire Line
+	4650 3850 5350 3850
+$Comp
+L Device:D_Small D?
+U 1 1 5FC3C656
+P 5350 3750
+F 0 "D?" V 5396 3680 50  0000 R CNN
+F 1 "D_Small" V 5305 3680 50  0000 R CNN
+F 2 "" V 5350 3750 50  0001 C CNN
+F 3 "~" V 5350 3750 50  0001 C CNN
+	1    5350 3750
+	0    -1   -1   0   
+$EndComp
+Connection ~ 5350 3850
+Wire Wire Line
+	5350 3850 5700 3850
+Wire Wire Line
+	5500 2750 5500 3450
+Connection ~ 5500 2750
+Text GLabel 5500 3450 0    50   Input ~ 0
+enc0col
+Text GLabel 5350 3650 0    50   Input ~ 0
+enc0row
+Text GLabel 5900 3450 2    50   Input ~ 0
+enc1col
+Text GLabel 5700 3650 2    50   Input ~ 0
+enc1row
+$EndSCHEMATC

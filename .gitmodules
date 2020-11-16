@@ -7,3 +7,6 @@
 [submodule "kicad/KiCad-SSD1306-128x64"]
 	path = kicad/KiCad-SSD1306-128x64
 	url = https://github.com/pforrmi/KiCad-SSD1306-128x64.git
+[submodule "kbd"]
+	path = kbd
+	url = https://github.com/foostan/kbd.git

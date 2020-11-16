@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name keebio)(type Legacy)(uri ${KIPRJMOD}/keebio-components/keebio.lib)(options "")(descr ""))
   (lib (name SSD1306-128x64_OLED)(type Legacy)(uri ${KIPRJMOD}/KiCad-SSD1306-128x64/library/SSD1306-128x64_OLED.lib)(options "")(descr ""))
+  (lib (name kbd)(type Legacy)(uri ${KIPRJMOD}/kbd/kicad-symbols/kbd.lib)(options "")(descr ""))
 )

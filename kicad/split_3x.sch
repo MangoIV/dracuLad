@@ -1268,13 +1268,13 @@ F 3 "" H 10250 2650 60  0001 C CNN
 	1    10100 2650
 	1    0    0    -1  
 $EndComp
-Text GLabel 9750 2250 0    50   Input ~ 0
-power
-Text GLabel 9750 2350 0    50   Input ~ 0
-ground
-Text GLabel 9750 2450 0    50   Input ~ 0
-connection
 NoConn ~ 9750 2550
 Text GLabel 9450 3650 0    50   Input ~ 0
 enc0col
+Text GLabel 9750 2450 0    50   Input ~ 0
+connection
+Text GLabel 9750 2350 0    50   Input ~ 0
+ground
+Text GLabel 9750 2250 0    50   Input ~ 0
+power
 $EndSCHEMATC

@@ -597,8 +597,6 @@ col2
 Text GLabel 2750 2150 2    50   Input ~ 0
 col3
 Text GLabel 2750 2250 2    50   Input ~ 0
-col3
-Text GLabel 2750 2350 2    50   Input ~ 0
 col4
 Text GLabel 1350 2050 0    50   Input ~ 0
 row0
@@ -1277,4 +1275,5 @@ Text GLabel 9750 2350 0    50   Input ~ 0
 ground
 Text GLabel 9750 2250 0    50   Input ~ 0
 power
+NoConn ~ 2750 2350
 $EndSCHEMATC

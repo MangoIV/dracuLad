@@ -1263,18 +1263,18 @@ U 1 1 5FD948D1
 P 10100 2650
 F 0 "U2" H 10328 2953 60  0000 L CNN
 F 1 "TRRS" H 10328 2847 60  0000 L CNN
-F 2 "kbd:MJ-4PP-9" H 10250 2650 60  0001 C CNN
+F 2 "Keebio-Parts:TRRS-PJ-320A-dual" H 10250 2650 60  0001 C CNN
 F 3 "" H 10250 2650 60  0001 C CNN
 	1    10100 2650
 	1    0    0    -1  
 $EndComp
-Text GLabel 9750 2250 0    50   Input ~ 0
-power
-Text GLabel 9750 2350 0    50   Input ~ 0
-ground
-Text GLabel 9750 2450 0    50   Input ~ 0
-connection
 NoConn ~ 9750 2550
 Text GLabel 9450 3650 0    50   Input ~ 0
 enc0col
+Text GLabel 9750 2450 0    50   Input ~ 0
+connection
+Text GLabel 9750 2350 0    50   Input ~ 0
+ground
+Text GLabel 9750 2250 0    50   Input ~ 0
+power
 $EndSCHEMATC

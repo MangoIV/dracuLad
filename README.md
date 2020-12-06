@@ -11,5 +11,9 @@ This is a 34-36-key-board.
 ## State of the project
 - first proto has been built, second and third in the works
 - problems with RGB lighting that has been fixed in the upstream PCB already
-- current Rev has an easy fix for those issues 
+- current rev has an easy fix for those issues as seen below
 ![rgb fix left side](https://github.com/mangoiv/draculad/blob/master/pictures/left_side_gnd_fix.jpg?raw=true)
+## Plans
+- update the pcb for cleaner wiring
+- test pcbs with fixed rgb
+- build low pro version (in progress)

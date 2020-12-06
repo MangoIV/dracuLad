@@ -8,6 +8,11 @@ This is a 34-36-key-board.
 - aggressive pinky stagger similar to the kyria but with an alternative thumb cluster to raise comfort large hands
 - support for mx and choc switches
 - files for fr4 plate and acrylic bottom plate as well as OLED window
+## Some pictures to get your mouth watery
+![showcase of both sides](https://github.com/mangoiv/draculad/blob/master/pictures/both_sides_showcase.jpg?raw=true)
+![showcase of oled cover](https://github.com/mangoiv/draculad/blob/master/pictures/oled_cover_showcase.jpg.jpg?raw=true)
+![showcase of underglow](https://github.com/mangoiv/draculad/blob/master/pictures/both_sides_underglow_oleds.jpg.jpg?raw=true)
+![oled cover](https://github.com/mangoiv/draculad/blob/master/pictures/right_side_oled_cover.jpg.jpg.jpg?raw=true)
 ## State of the project
 - first proto has been built, second and third in the works
 - problems with RGB lighting that has been fixed in the upstream PCB already

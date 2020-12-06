@@ -36,3 +36,6 @@ This is a 34-36-key-board.
 - 8 0.7cm standoffs, 16 m2 screws to mount the case 
 - 6 standoffs with m2 screws for the OLED cover (standoff size depends on whether you use the OLEDs or not and probably also how low profile you pro micro is mounted (bit-c for example is a bit higher profile))
 - usb cable, trrs cable, rotary encoder knobs, keycaps
+
+## License 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

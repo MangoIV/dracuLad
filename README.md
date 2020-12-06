@@ -33,8 +33,8 @@ This is a 34-36-key-board.
 - two reset switches (they're also optional, you could alway just reset with tweezers or from the firmware)
 - two SSD1306 OLEDs, those are optional as well
 - two TRRS jacks
-- 8 0.7cm standoffs, 16 m2 screws to mount the case 
-- 6 standoffs with m2 screws for the OLED cover (standoff size depends on whether you use the OLEDs or not and probably also how low profile you pro micro is mounted (bit-c for example is a bit higher profile))
+- 8x 0.7cm standoffs, 16 m2 screws to mount the case 
+- 6x standoffs with m2 screws for the OLED cover (standoff size depends on whether you use the OLEDs or not and probably also how low profile your pro micro is mounted (bit-c for example is a bit higher profile), with OLEDs 1cm is ok)
 - usb cable, trrs cable, rotary encoder knobs, keycaps
 
 ## License 

@@ -17,6 +17,7 @@ This is a 34-36-key-board.
 - first proto has been built, second and third in the works
 - problems with RGB lighting that has been fixed in the upstream PCB already
 - current rev has an easy fix for those issues as seen below
+- for the upper encoder you can't use the really big guitar knobs as they're to wide and will interfere with the OLEDs. The smaller ones are recommended
 ![rgb fix left side](https://github.com/mangoiv/draculad/blob/master/pictures/left_side_gnd_fix.jpg?raw=true)
 ## Plans
 - update the pcb for cleaner wiring

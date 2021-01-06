@@ -7,19 +7,19 @@
       "Application": "Pcbnew",
       "Version":     "5.1.8"
     },
-    "CreationDate":  "2021-01-06T22:09:07+01:00"
+    "CreationDate":  "2021-01-06T22:13:21+01:00"
   },
   "GeneralSpecs":
   {
     "ProjectId":
     {
-      "Name": "split_3x_plate",
-      "GUID": "73706c69-745f-4337-985f-706c6174652e",
+      "Name": "split_3x_bottom",
+      "GUID": "73706c69-745f-4337-985f-626f74746f6d",
       "Revision": "rev?"
     },
     "Size":
     {
-      "X": 122.299,
+      "X": 127.300,
       "Y": 121.288
     },
     "LayerNumber": 2,
@@ -31,45 +31,43 @@
       "Layers": "Outer",
       "PadToPad":  0.200,
       "PadToTrack":  0.200,
-      "TrackToTrack":  0.200,
-      "TrackToRegion":  0.508,
-      "RegionToRegion":  0.508
+      "TrackToTrack":  0.200
     }
   ],
   "FilesAttributes":
   [
     {
-      "Path":  "split_3x_plate-F_Cu.gbr",
+      "Path":  "split_3x_bottom-F_Cu.gbr",
       "FileFunction":  "Copper,L1,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "split_3x_plate-B_Cu.gbr",
+      "Path":  "split_3x_bottom-B_Cu.gbr",
       "FileFunction":  "Copper,L2,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "split_3x_plate-F_SilkS.gbr",
+      "Path":  "split_3x_bottom-F_SilkS.gbr",
       "FileFunction":  "Legend,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "split_3x_plate-B_SilkS.gbr",
+      "Path":  "split_3x_bottom-B_SilkS.gbr",
       "FileFunction":  "Legend,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "split_3x_plate-F_Mask.gbr",
+      "Path":  "split_3x_bottom-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "split_3x_plate-B_Mask.gbr",
+      "Path":  "split_3x_bottom-B_Mask.gbr",
       "FileFunction":  "SolderMask,Bot",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "split_3x_plate-Edge_Cuts.gbr",
+      "Path":  "split_3x_bottom-Edge_Cuts.gbr",
       "FileFunction":  "Profile",
       "FilePolarity":  "Positive"
     }

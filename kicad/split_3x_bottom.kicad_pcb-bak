@@ -86,7 +86,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../production files/gerbers/"))
+      (outputdirectory "../production_files/gerbers_bottom/"))
   )
 
   (net 0 "")

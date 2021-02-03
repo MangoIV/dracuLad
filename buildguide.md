@@ -19,7 +19,7 @@
 - 6x standoffs with m2 screws for the OLED cover (standoff size depends on whether you use the OLEDs or not and probably also how low profile your pro micro is mounted (bit-c for example is a bit higher profile), with OLEDs 1cm is ok)
 - 1x pimoroni trackball (this will only fit for the plateless build or the one with the FR4 plate)
 
-## First step: soldering the Diodes
+## First step: solder the Diodes
 - the diode mark should be aligned with the mark on the PCB
 - Solder the diodes on the bottom of the PCB, the PCBs are reversible, therefore you need to decide for one side in the beginning. 
 - Put solder on one of the pads, reflow the solder while sliding the diode into place, solder the second side of the diode
@@ -29,7 +29,7 @@
 - do it similar to the diode, first solder one pad, slide in the LED, solder the other 3 joints
 - be careful, those things are really heat sensitive 
 
-## Third step install the pro micros
+## Third step: install the pro micros
 - before installing the pro micro, flash it with the right firmware which can be found on my fork of the qmk firmware on the branch "draculad"
 - the pro micro headers/sockets should be in the outlines marked on the PCB
 - I strongly recommend socketing your pro micros or pro micro clone

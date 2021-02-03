@@ -29,4 +29,9 @@
 - do it similar to the diode, first solder one pad, slide in the LED, solder the other 3 joints
 - be careful, those things are really heat sensitive 
 
-## Third step
+## Third step install the pro micros
+- before installing the pro micro, flash it with the right firmware which can be found on my fork of the qmk firmware on the branch "draculad"
+- the pro micro headers/sockets should be in the outlines marked on the PCB
+- I strongly recommend socketing your pro micros or pro micro clone
+- for reference on how to install your pro micro please look at the [crkbd buildguide](https://nicedoc.io/foostan/crkbd/blob/master/corne-classic/doc/buildguide_en.md). 
+- now is the right time to plug in your keyboard and check whether everything work. if you did everything right, every switch should give you a feedback besides the ones that switch layers (refer to the layout in the firmware) and all the LEDs should light up red. The LEDs are daisy chained, so check them by correcting them one by one in the chain that starts at the bottom of the pro micro and follows all around on the edge of the PCB

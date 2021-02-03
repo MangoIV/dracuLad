@@ -35,3 +35,10 @@
 - I strongly recommend socketing your pro micros or pro micro clone
 - for reference on how to install your pro micro please look at the [crkbd buildguide](https://nicedoc.io/foostan/crkbd/blob/master/corne-classic/doc/buildguide_en.md). 
 - now is the right time to plug in your keyboard and check whether everything work. if you did everything right, every switch should give you a feedback besides the ones that switch layers (refer to the layout in the firmware) and all the LEDs should light up red. The LEDs are daisy chained, so check them by correcting them one by one in the chain that starts at the bottom of the pro micro and follows all around on the edge of the PCB
+
+## Fourth step: Install your Pimoroni, OLEDs, Encoders
+- section on pimoronis is going to be added later
+- for the OLEDs, jump the OLED jumpers on top of the PCB and solder in the OLEDs. Add some insulating tape on the bottom of the OLED to avoid shorts with the pro micro, after that just solder them in, there's not much you can do wrong here
+- test them by pluggin in, they should both come on
+
+

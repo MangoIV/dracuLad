@@ -16,7 +16,7 @@ This is a 34-36-key-board.
 ![oled cover](https://github.com/mangoiv/draculad/blob/master/pictures/right_side_oled_cover.jpg?raw=true)
 ## State of the project
 - PCBs are fully working (OLED, LEDs, all switches, encoders, Trackball)
-- acrylic plates are ordered and soon to be tested
+- acrylic plates have arrived and fit perfectly
 - for the upper encoder you can't use the really big guitar knobs as they're to wide and will interfere with the OLEDs. The smaller ones are recommended
 
 ## License 

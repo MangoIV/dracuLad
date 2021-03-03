@@ -15,6 +15,10 @@ This is a 34-36-key-board.
 - acrylic plates have arrived and fit perfectly
 - for the upper encoder you can't use the really big guitar knobs as they're to wide and will interfere with the OLEDs. The smaller ones are recommended
 
+## Plans for the future
+- add wireless support with zmk (in progress)
+- design 3D-printable case 
+
 ## Some pictures to get your mouth watery
 ![showcase of both sides](https://github.com/mangoiv/draculad/blob/master/pictures/rev1/both_sides_showcase.jpg?raw=true)
 ![showcase of oled cover](https://github.com/mangoiv/draculad/blob/master/pictures/rev1/oled_cover_showcase.jpg?raw=true)

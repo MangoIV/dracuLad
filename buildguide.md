@@ -37,8 +37,32 @@
 - now is the right time to plug in your keyboard and check whether everything work. if you did everything right, every switch should give you a feedback besides the ones that switch layers (refer to the layout in the firmware) and all the LEDs should light up red. The LEDs are daisy chained, so check them by correcting them one by one in the chain that starts at the bottom of the pro micro and follows all around on the edge of the PCB
 
 ## Fourth step: Install your Pimoroni, OLEDs, Encoders
-- section on pimoronis is going to be added later
 - for the OLEDs, jump the OLED jumpers on top of the PCB and solder in the OLEDs. Add some insulating tape on the bottom of the OLED to avoid shorts with the pro micro, after that just solder them in, there's not much you can do wrong here
+![OLED with insulation tape on bottom](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/OLED_insulated.jpg?raw=true)
+
 - test them by pluggin in, they should both come on
+- for the pimoronis you should not compile the default keymap but rather the "pimoroni" one 
+- jump the pimoroni jumpers on top of the PCB
+- before soldering the pimoroni, make sure you insulate it with a bit of insulation tape
+- solder the pimoroni in
+- the pins should be as flush as possible with the top of the pimoroni pcb
+- the pimoroni pcb should be parallel to the draculad pcb
+- to optimise the profile, use diode pins to connect the pimoroni to the pcb
+- after plugging in, your trackball should light up red and work now 
+- clip away the short, thick legs of the encoder (!NOT THE PINS!) and solder them into the spots you want them
+- remember, all 4 encoder spots are supported at once
+
+## Fifth step: Take a break
+At this point you should have a fully working keyboard barebone. Test the encoders and whether there are any errors plugging in the keyboard. Both OLEDs should work as well as the LEDs and the Pimoroni.
+If not, try to correct your mistakes, don't lose your temper, most of the things can be corrected very easily.
+If you're debugging your keyboard under linux, you can test the keys and the encoders by using ```xev -event keyboad``` and whether the keyboard is correctly recognised with ```dmesg --follow -H``` (mind that you need proper rights to run this command) 
+
+## Sixth step, solder in the switches
+- depending on whether you build it with or without plate, stick the switches through the plate and then through the pin holes. Solder the pins. 
+- mount the OLED cover, use the longer standoffs for that
+- screw the shorter standoffs to the switch plate and then to the bottom plate
+- mount keycaps
+- have fun tinkering with qmk (or zmk)
+
 
 

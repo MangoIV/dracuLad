@@ -29,7 +29,7 @@ This is a 34-36-key-board.
 ![glamour shot 1 pimoroni, fr4](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/fr4_glamour3.jpeg?raw=true)
 ![glamour shot 1 pimoroni, fr4](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/fr4_glamour4.jpeg?raw=true)
 ![glamour shot 1 pimoroni, fr4](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/fr4_glamour5.jpeg?raw=true)
-![glamour shot of 3D printed High Pro case by Sade Baroudi](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/sadeks_build_1.jpg?raw=true)
+![glamour shot of 3D printed High Pro case by Sadek Baroudi](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/sadeks_build_1.jpg?raw=true)
 
 
 ## License 

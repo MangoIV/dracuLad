@@ -15,7 +15,7 @@ This is a 34-36-key-board.
 - acrylic plates have arrived and fit perfectly
 - for the upper encoder you can't use the really big guitar knobs as they're to wide and will interfere with the OLEDs. The smaller ones are recommended
 - 3D-printable case has been added thanks to the awesome work of Sadek Baroudi
-- basic ZMK Firmware (not all features implemented yet) exists on [my for of the zmk firmware](https://github.com/MangoIV/zmk.git)
+- basic ZMK Firmware (not all features implemented yet) exists on [my fork of the zmk firmware](https://github.com/MangoIV/zmk.git)
 
 ## Plans for the future
 - currently everything I wanted seems to be implemented
@@ -29,6 +29,8 @@ This is a 34-36-key-board.
 ![glamour shot 1 pimoroni, fr4](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/fr4_glamour3.jpeg?raw=true)
 ![glamour shot 1 pimoroni, fr4](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/fr4_glamour4.jpeg?raw=true)
 ![glamour shot 1 pimoroni, fr4](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/fr4_glamour5.jpeg?raw=true)
+![glamour shot of 3D printed High Pro case by Sade Baroudi](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/sadeks_build_1.jpg?raw=true)
+
 
 ## License 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

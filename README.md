@@ -14,11 +14,11 @@ This is a 34-36-key-board.
 - PCBs are fully working (OLED, LEDs, all switches, encoders, Trackball)
 - acrylic plates have arrived and fit perfectly
 - for the upper encoder you can't use the really big guitar knobs as they're to wide and will interfere with the OLEDs. The smaller ones are recommended
+- 3D-printable case has been added thanks to the awesome work of Sadek Baroudi
+- basic ZMK Firmware (not all features implemented yet) exists on [my for of the zmk firmware](https://github.com/MangoIV/zmk.git)
 
 ## Plans for the future
-- add wireless support with zmk (in progress)
-- design 3D-printable case 
-
+- currently everything I wanted seems to be implemented
 ## Some pictures to get your mouth watery
 ![showcase of both sides](https://github.com/mangoiv/draculad/blob/master/pictures/rev1/both_sides_showcase.jpg?raw=true)
 ![showcase of oled cover](https://github.com/mangoiv/draculad/blob/master/pictures/rev1/oled_cover_showcase.jpg?raw=true)

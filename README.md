@@ -5,7 +5,7 @@ This is a 34-36-key-board.
 - bright RGB Underglow with ws2812b LEDs
 - one ssd1306 OLED per side
 - support for the [pimoroni trackball](https://shop.pimoroni.com/products/trackball-breakout)
-- powered by QMK-firmware (Firmware can be found at [my fork of the qmk firmware with branch "draculad"](https://github.com/MangoIV/qmk_firmware/tree/draculad))
+- powered by QMK-firmware (Firmware has been merged and can be found on [the qmk master](https://github.com/qmk/qmk_firmware/))
 - aggressive pinky stagger similar to the kyria but with an alternative thumb cluster to raise comfort for large hands
 - support for mx and choc switches
 - files for fr4 plate and acrylic bottom plate as well as OLED window

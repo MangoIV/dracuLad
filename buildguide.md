@@ -2,7 +2,7 @@
 ## What you need
 - 2x pcbs
 - 2x bottom plate, 2x top plate
-- 34-36 Switches, either choc low profile v1 or mx compatible ones
+- 34-36 switches, either choc low profile v1 or mx compatible ones
 - 2 rotary encoders
 - 2x pro micro compatible controllers
 - 38x sod123 SMD diodes
@@ -21,8 +21,8 @@
 
 ## First step: solder the Diodes
 - the diode mark should be aligned with the mark on the PCB
-- Solder the diodes on the bottom of the PCB, the PCBs are reversible, therefore you need to decide for one side in the beginning. 
-- Put solder on one of the pads, reflow the solder while sliding the diode into place, solder the second side of the diode
+- solder the diodes on the bottom of the PCB, the PCBs are reversible, therefore you need to decide for one side in the beginning. 
+- put solder on one of the pads, reflow the solder while sliding the diode into place, solder the second side of the diode
 
 ## Second step: solder the LEDs
 - the little triangle on the LED should allign with the triangle on thr PCB

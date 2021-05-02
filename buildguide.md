@@ -30,8 +30,9 @@
 - be careful, those things are really heat sensitive 
 
 ## Third step: install the pro micros
-- before installing the pro micro, flash it with the right firmware which can be found on my fork of the qmk firmware on the branch "draculad"
+- before installing the pro micro, flash it with the right firmware which can be found on the [qmk master](https://github.com/qmk/qmk_firmware) or, if you're using a bluetooth controller like the Nice!Nano or the nRFMicro, refer to my fork of the zmk firmware which should implement some basic features on the "draculad"-branch.
 - the pro micro headers/sockets should be in the outlines marked on the PCB
+- if you need help socketing your controller or never did it before, refer to [this section of the crkbd buildguide](https://nicedoc.io/foostan/crkbd/blob/master/corne-classic/doc/buildguide_en.md#use-socket-to-mount-promicro)
 - I strongly recommend socketing your pro micros or pro micro clone
 - for reference on how to install your pro micro please look at the [crkbd buildguide](https://nicedoc.io/foostan/crkbd/blob/master/corne-classic/doc/buildguide_en.md). 
 - now is the right time to plug in your keyboard and check whether everything work. if you did everything right, every switch should give you a feedback besides the ones that switch layers (refer to the layout in the firmware) and all the LEDs should light up red. The LEDs are daisy chained, so check them by correcting them one by one in the chain that starts at the bottom of the pro micro and follows all around on the edge of the PCB

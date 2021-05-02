@@ -21,13 +21,13 @@
 
 ## First step: solder the Diodes
 - the diode mark should be aligned with the mark on the PCB
-- solder the diodes on the bottom of the PCB, the PCBs are reversible, therefore you need to decide for one side in the beginning. 
+- solder the diodes on the bottom of the PCB, the PCBs are reversible, therefore you need to decide for one side in the beginning 
 - put solder on one of the pads, reflow the solder while sliding the diode into place, solder the second side of the diode
 
 ## Second step: solder the LEDs
-- the little triangle on the LED should allign with the triangle on thr PCB
+- the little triangle on the LED should allign with the triangle on the PCB
 - do it similar to the diode, first solder one pad, slide in the LED, solder the other 3 joints
-- be careful, those things are really heat sensitive 
+- be careful, those things are really heat sensitive, only ever touch the metal part with the iron, never the plastic - if possible, don't touch the LED with the iron but let the solder flow onto the joints
 
 ## Third step: install the pro micros
 - before installing the pro micro, flash it with the right firmware which can be found on the [qmk master](https://github.com/qmk/qmk_firmware) or, if you're using a bluetooth controller like the Nice!Nano or the nRFMicro, refer to my fork of the zmk firmware which should implement some basic features on the "draculad"-branch.
@@ -35,7 +35,7 @@
 - if you need help socketing your controller or never did it before, refer to [this section of the crkbd buildguide](https://nicedoc.io/foostan/crkbd/blob/master/corne-classic/doc/buildguide_en.md#use-socket-to-mount-promicro)
 - I strongly recommend socketing your pro micros or pro micro clone
 - for reference on how to install your pro micro please look at the [crkbd buildguide](https://nicedoc.io/foostan/crkbd/blob/master/corne-classic/doc/buildguide_en.md). 
-- now is the right time to plug in your keyboard and check whether everything work. if you did everything right, every switch should give you a feedback besides the ones that switch layers (refer to the layout in the firmware) and all the LEDs should light up red. The LEDs are daisy chained, so check them by correcting them one by one in the chain that starts at the bottom of the pro micro and follows all around on the edge of the PCB
+- now is the right time to plug in your keyboard and check whether everything works - if you did everything right, every switch - besides the ones that switch layers (refer to the layout in the firmware) - should give you a feedback and all the LEDs should light up red. The LEDs are daisy chained, so check them by correcting them one by one in the chain that starts at the bottom of the pro micro and follows all around on the edge of the PCB
 
 ## Fourth step: Install your Pimoroni, OLEDs, Encoders
 - for the OLEDs, jump the OLED jumpers on top of the PCB and solder in the OLEDs. Add some insulating tape on the bottom of the OLED to avoid shorts with the pro micro, after that just solder them in, there's not much you can do wrong here
@@ -54,9 +54,9 @@
 - remember, all 4 encoder spots are supported at once
 
 ## Fifth step: Take a break
-At this point you should have a fully working keyboard barebone. Test the encoders and whether there are any errors plugging in the keyboard. Both OLEDs should work as well as the LEDs and the Pimoroni.
+At this point you should have a fully working keyboard barebone. Test the encoders and whether there are any errors plugging in the keyboard. Both OLEDs should work, as well as the LEDs and the Pimoroni.
 If not, try to correct your mistakes, don't lose your temper, most of the things can be corrected very easily.
-If you're debugging your keyboard under linux, you can test the keys and the encoders by using ```xev -event keyboard``` and whether the keyboard is correctly recognised with ```dmesg --follow -H``` (mind that you need proper rights to run this command) 
+If you're debugging your keyboard under Linux, you can test the keys and the encoders by using ```xev -event keyboard``` and whether the keyboard is correctly recognised with ```dmesg --follow -H```. (Mind that you need proper rights to run this command.) 
 
 ## Sixth step, solder in the switches
 - depending on whether you build it with or without plate, stick the switches through the plate and then through the pin holes. Solder the pins. 

@@ -26,7 +26,7 @@ This is a 34-36-key-board.
 - if you live in a remote area resulting in high shipping costs or problems with importing, gerbers for ordering the PCBs and SVGs for getting plates cut are available in this repo, too
 
 ## Things to consider before getting a DracuLad
-- for the upper encoder you can't use the really big guitar knobs as they're to wide and will interfere with the OLEDs. The smaller ones are recommended
+- for the upper encoder you can't use the really big guitar knobs as they're too wide and will interfere with the OLEDs, the smaller ones are recommended
 - the thumb cluster is lower than on boards like the Corne keyboard
 - liking or disliking a layout is not a matter of how "good" the layout is but mostly preference, hence I recommend looking at [a split keyboard comparison site](https://jhelvy.shinyapps.io/splitkbcompare/) and print out some layouts to confirm you like it. (DracuLad can be found there, too)
 

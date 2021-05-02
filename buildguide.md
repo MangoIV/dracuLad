@@ -55,7 +55,7 @@
 ## Fifth step: Take a break
 At this point you should have a fully working keyboard barebone. Test the encoders and whether there are any errors plugging in the keyboard. Both OLEDs should work as well as the LEDs and the Pimoroni.
 If not, try to correct your mistakes, don't lose your temper, most of the things can be corrected very easily.
-If you're debugging your keyboard under linux, you can test the keys and the encoders by using ```xev -event keyboad``` and whether the keyboard is correctly recognised with ```dmesg --follow -H``` (mind that you need proper rights to run this command) 
+If you're debugging your keyboard under linux, you can test the keys and the encoders by using ```xev -event keyboard``` and whether the keyboard is correctly recognised with ```dmesg --follow -H``` (mind that you need proper rights to run this command) 
 
 ## Sixth step, solder in the switches
 - depending on whether you build it with or without plate, stick the switches through the plate and then through the pin holes. Solder the pins. 

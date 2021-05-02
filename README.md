@@ -20,15 +20,16 @@ This is a 34-36-key-board.
 ## Plans for the future
 - currently everything I wanted seems to be implemented
 ## Hardware availability
-- Hardware availability is always a big problem and ordering everything yourself is a big hustle. Therefore I'm happy to tell you that Ben from keycapsss (not me) is so kind [to offer everything to make a full build](https://keycapsss.com/). 
+- hardware availability is always a big problem and ordering everything yourself is a big hustle. Therefore I'm happy to tell you that Ben from keycapsss (not me) is so kind [to offer everything to make a full build](https://keycapsss.com/). 
+- if you live in a remote area resulting in high shipping costs or problems with importing, gerbers for ordering the PCBs and SVGs for getting plates cut are available in this repo, too
 ## Some pictures to get your mouth watery
-![showcase of both sides](https://github.com/mangoiv/draculad/blob/master/pictures/rev1/both_sides_showcase.jpg?raw=true)
-![showcase of oled cover](https://github.com/mangoiv/draculad/blob/master/pictures/rev1/oled_cover_showcase.jpg?raw=true)
-![showcase of underglow](https://github.com/mangoiv/draculad/blob/master/pictures/rev1/both_sides_underglow_oleds.jpg?raw=true)
-![oled cover](https://github.com/mangoiv/draculad/blob/master/pictures/rev1/right_side_oled_cover.jpg?raw=true)
 ![glamour shot 1 pimoroni, fr4](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/fr4_glamour1.jpeg?raw=true)
 ![glamour shot 1 pimoroni, fr4](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/fr4_glamour2.jpeg?raw=true)
 ![glamour shot 1 pimoroni, fr4](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/fr4_glamour3.jpeg?raw=true)
 ![glamour shot 1 pimoroni, fr4](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/fr4_glamour4.jpeg?raw=true)
 ![glamour shot 1 pimoroni, fr4](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/fr4_glamour5.jpeg?raw=true)
 ![glamour shot of 3D printed High Pro case by Sadek Baroudi](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/sadeks_build_1.jpg?raw=true)
+![showcase of both sides](https://github.com/mangoiv/draculad/blob/master/pictures/rev1/both_sides_showcase.jpg?raw=true)
+![showcase of oled cover](https://github.com/mangoiv/draculad/blob/master/pictures/rev1/oled_cover_showcase.jpg?raw=true)
+![showcase of underglow](https://github.com/mangoiv/draculad/blob/master/pictures/rev1/both_sides_underglow_oleds.jpg?raw=true)
+![oled cover](https://github.com/mangoiv/draculad/blob/master/pictures/rev1/right_side_oled_cover.jpg?raw=true)

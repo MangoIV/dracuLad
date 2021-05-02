@@ -38,7 +38,7 @@
 
 ## Fourth step: Install your Pimoroni, OLEDs, Encoders
 - for the OLEDs, jump the OLED jumpers on top of the PCB and solder in the OLEDs. Add some insulating tape on the bottom of the OLED to avoid shorts with the pro micro, after that just solder them in, there's not much you can do wrong here
-![OLED with insulation tape on bottom](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/OLED_insulated.jpg?raw=true)
+![OLED with insulation tape on bottom](https://github.com/MangoIV/dracuLad/blob/master/pictures/rev2/OLED_insulated.jpeg?raw=true)
 
 - test them by pluggin in, they should both come on
 - for the pimoronis you should not compile the default keymap but rather the "pimoroni" one 

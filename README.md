@@ -19,6 +19,8 @@ This is a 34-36-key-board.
 
 ## Plans for the future
 - currently everything I wanted seems to be implemented
+## Hardware availability
+- Hardware availability is always a big problem and ordering everything yourself is a big hustle. Therefore I'm happy to tell your that [keycapsss offers everything to make a full build](https://keycapsss.com/)
 ## Some pictures to get your mouth watery
 ![showcase of both sides](https://github.com/mangoiv/draculad/blob/master/pictures/rev1/both_sides_showcase.jpg?raw=true)
 ![showcase of oled cover](https://github.com/mangoiv/draculad/blob/master/pictures/rev1/oled_cover_showcase.jpg?raw=true)

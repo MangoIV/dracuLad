@@ -29,6 +29,7 @@ This is a 34-36-key-board.
 - for the upper encoder you can't use the really big guitar knobs as they're too wide and will interfere with the OLEDs, the smaller ones are recommended
 - the thumb cluster is lower than on boards like the Corne keyboard
 - liking or disliking a layout is not a matter of how "good" the layout is but mostly preference, hence I recommend looking at [a split keyboard comparison site](https://jhelvy.shinyapps.io/splitkbcompare/) and print out some layouts to confirm you like it. (DracuLad can be found there, too)
+- before purchasing encoders, make sure they fit! The holes in the plate are 12mm x 12mm and won't fit bigger encoders. They're in particular not the size of the switch footprints.
 
 ## Some pictures to get your mouth watery
 ![glamour shot 1 pimoroni, fr4](https://github.com/mangoiv/draculad/blob/master/pictures/rev2/fr4_glamour1.jpeg?raw=true)

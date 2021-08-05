@@ -1,0 +1,15 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.1.10*
+G04 #@! TF.CreationDate,2021-08-05T17:34:28+02:00*
+G04 #@! TF.ProjectId,split_3x_plate_bigger_encoder_gerber,73706c69-745f-4337-985f-706c6174655f,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Legend,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.1.10) date 2021-08-05 17:34:28*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+M02*

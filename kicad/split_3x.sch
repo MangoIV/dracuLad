@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L keebio:ProMicro U1
+L split_3x-rescue:ProMicro-keebio U1
 U 1 1 5FB16BB9
 P 2050 2000
 F 0 "U1" H 2050 2837 60  0000 C CNN
@@ -36,7 +36,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4350 5175 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX1
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX1
 U 1 1 5FB323B1
 P 6200 1750
 F 0 "MX1" H 6233 1973 60  0000 C CNN
@@ -47,7 +47,7 @@ F 3 "" H 5575 1725 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX4
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX4
 U 1 1 5FB3417F
 P 6650 1750
 F 0 "MX4" H 6683 1973 60  0000 C CNN
@@ -58,7 +58,7 @@ F 3 "" H 6025 1725 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX7
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX7
 U 1 1 5FB34604
 P 7050 1750
 F 0 "MX7" H 7083 1973 60  0000 C CNN
@@ -69,7 +69,7 @@ F 3 "" H 6425 1725 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX11
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX11
 U 1 1 5FB34B53
 P 7450 1750
 F 0 "MX11" H 7483 1973 60  0000 C CNN
@@ -80,7 +80,7 @@ F 3 "" H 6825 1725 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX15
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX15
 U 1 1 5FB35275
 P 7850 1750
 F 0 "MX15" H 7883 1973 60  0000 C CNN
@@ -91,7 +91,7 @@ F 3 "" H 7225 1725 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX2
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX2
 U 1 1 5FB37E94
 P 6200 2450
 F 0 "MX2" H 6233 2673 60  0000 C CNN
@@ -102,7 +102,7 @@ F 3 "" H 5575 2425 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX5
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX5
 U 1 1 5FB37E9A
 P 6650 2450
 F 0 "MX5" H 6683 2673 60  0000 C CNN
@@ -113,7 +113,7 @@ F 3 "" H 6025 2425 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX8
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX8
 U 1 1 5FB37EA0
 P 7050 2450
 F 0 "MX8" H 7083 2673 60  0000 C CNN
@@ -124,7 +124,7 @@ F 3 "" H 6425 2425 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX12
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX12
 U 1 1 5FB37EA6
 P 7450 2450
 F 0 "MX12" H 7483 2673 60  0000 C CNN
@@ -135,7 +135,7 @@ F 3 "" H 6825 2425 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX16
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX16
 U 1 1 5FB37EAC
 P 7850 2450
 F 0 "MX16" H 7883 2673 60  0000 C CNN
@@ -146,7 +146,7 @@ F 3 "" H 7225 2425 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX3
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX3
 U 1 1 5FB39317
 P 6200 3250
 F 0 "MX3" H 6233 3473 60  0000 C CNN
@@ -157,7 +157,7 @@ F 3 "" H 5575 3225 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX6
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX6
 U 1 1 5FB3931D
 P 6650 3250
 F 0 "MX6" H 6683 3473 60  0000 C CNN
@@ -168,7 +168,7 @@ F 3 "" H 6025 3225 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX9
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX9
 U 1 1 5FB39323
 P 7050 3250
 F 0 "MX9" H 7083 3473 60  0000 C CNN
@@ -179,7 +179,7 @@ F 3 "" H 6425 3225 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX13
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX13
 U 1 1 5FB39329
 P 7450 3250
 F 0 "MX13" H 7483 3473 60  0000 C CNN
@@ -190,7 +190,7 @@ F 3 "" H 6825 3225 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX17
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX17
 U 1 1 5FB3932F
 P 7850 3250
 F 0 "MX17" H 7883 3473 60  0000 C CNN
@@ -201,7 +201,7 @@ F 3 "" H 7225 3225 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX10
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX10
 U 1 1 5FB426A8
 P 7050 3950
 F 0 "MX10" H 7083 4173 60  0000 C CNN
@@ -212,7 +212,7 @@ F 3 "" H 6425 3925 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX14
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX14
 U 1 1 5FB426AE
 P 7450 3950
 F 0 "MX14" H 7483 4173 60  0000 C CNN
@@ -223,7 +223,7 @@ F 3 "" H 6825 3925 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX18
+L split_3x-rescue:MX-NoLED-MX_Alps_Hybrid MX18
 U 1 1 5FB426B4
 P 7850 3950
 F 0 "MX18" H 7883 4173 60  0000 C CNN
@@ -707,7 +707,6 @@ Text GLabel 2100 4050 0    50   Input ~ 0
 reset
 Text GLabel 2750 1650 2    50   Input ~ 0
 reset
-NoConn ~ 2750 1450
 Text GLabel 1350 1450 0    50   Input ~ 0
 leds
 Text GLabel 1350 1550 0    50   Input ~ 0
@@ -801,7 +800,7 @@ F 3 "~" H 2300 6950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SSD1306-128x64_OLED:SSD1306 Brd1
+L split_3x-rescue:SSD1306-SSD1306-128x64_OLED Brd1
 U 1 1 5FCA781D
 P 3200 6500
 F 0 "Brd1" V 3246 6222 50  0000 R CNN
@@ -1256,7 +1255,7 @@ NoConn ~ 9950 5550
 Text GLabel 3350 5550 0    50   Input ~ 0
 leds
 $Comp
-L keebio:TRRS U2
+L split_3x-rescue:TRRS-keebio U2
 U 1 1 5FD948D1
 P 10100 2650
 F 0 "U2" H 10328 2953 60  0000 L CNN
@@ -1395,4 +1394,52 @@ Wire Wire Line
 	4300 2350 4650 2350
 Wire Wire Line
 	4400 2550 4400 3000
+$Comp
+L Device:Battery_Cell BT1
+U 1 1 6114E51A
+P 3850 1450
+F 0 "BT1" H 3968 1546 50  0000 L CNN
+F 1 "Bat_loc1" H 3968 1455 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal" V 3850 1510 50  0001 C CNN
+F 3 "~" V 3850 1510 50  0001 C CNN
+	1    3850 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_DIP_x01 SW5
+U 1 1 6116D831
+P 5150 1250
+F 0 "SW5" H 5150 1517 50  0000 C CNN
+F 1 "SW_DIP_x01" H 5150 1426 50  0000 C CNN
+F 2 "other_parts:switch_MSK-12C02_smd" H 5150 1250 50  0001 C CNN
+F 3 "~" H 5150 1250 50  0001 C CNN
+	1    5150 1250
+	1    0    0    -1  
+$EndComp
+Text GLabel 3700 1550 0    50   Input ~ 0
+ground
+Wire Wire Line
+	3700 1550 3850 1550
+Text GLabel 2750 1450 2    50   Input ~ 0
+raw
+Text GLabel 5450 1250 2    50   Input ~ 0
+raw
+$Comp
+L Switch:SW_DIP_x01 SW6
+U 1 1 610FB382
+P 5150 1650
+F 0 "SW6" H 5150 1917 50  0000 C CNN
+F 1 "SW_DIP_x01" H 5150 1826 50  0000 C CNN
+F 2 "other_parts:switch_MSK-12C02_smd" H 5150 1650 50  0001 C CNN
+F 3 "~" H 5150 1650 50  0001 C CNN
+	1    5150 1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4850 1250 4850 1650
+Connection ~ 4850 1250
+Wire Wire Line
+	5450 1650 5450 1250
+Wire Wire Line
+	3850 1250 4850 1250
 $EndSCHEMATC

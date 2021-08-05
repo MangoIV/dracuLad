@@ -1276,10 +1276,10 @@ Text GLabel 9750 2250 0    50   Input ~ 0
 power
 NoConn ~ 2750 2350
 $Comp
-L Connector_Generic:Conn_01x05 spi1
+L Connector_Generic:Conn_01x05 pim1
 U 1 1 5FF77D67
 P 4850 2450
-F 0 "spi1" H 4930 2492 50  0000 L CNN
+F 0 "pim1" H 4930 2492 50  0000 L CNN
 F 1 "Conn_01x05" H 4930 2401 50  0000 L CNN
 F 2 "other_parts:pimoroni_left_side_mount" H 4850 2450 50  0001 C CNN
 F 3 "~" H 4850 2450 50  0001 C CNN
@@ -1400,7 +1400,7 @@ U 1 1 6114E51A
 P 3850 1450
 F 0 "BT1" H 3968 1546 50  0000 L CNN
 F 1 "Bat_loc1" H 3968 1455 50  0000 L CNN
-F 2 "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal" V 3850 1510 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical" V 3850 1510 50  0001 C CNN
 F 3 "~" V 3850 1510 50  0001 C CNN
 	1    3850 1450
 	1    0    0    -1  

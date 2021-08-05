@@ -1,6 +1,7 @@
 # The DracuLad keyboard
 This is a 34-36-key-board.
-**I made some updates to the PCB which are untested. I did not change anything significant so it should still work as intended but if not you've been warned!**
+
+**I recently made some updates to the PCB which are untested. I did not change anything significant so it should still work as intended but if not you've been warned!**
 
 ## Features
 - 36 keys, two of them can be replaced by rotary encoders making it support 34-36 keys and 2-4 encoders. 

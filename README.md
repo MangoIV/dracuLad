@@ -1,5 +1,6 @@
 # The DracuLad keyboard
 This is a 34-36-key-board.
+**I made some updates to the PCB which are untested. I did not change anything significant so it should still work as intended but if not you've been warned!**
 
 ## Features
 - 36 keys, two of them can be replaced by rotary encoders making it support 34-36 keys and 2-4 encoders. 
@@ -16,10 +17,6 @@ This is a 34-36-key-board.
 - acrylic plates have arrived and fit perfectly
 - 3D-printable case has been added thanks to the awesome work of Sadek Baroudi
 - basic ZMK Firmware (not all features implemented yet) exists on [my fork of the zmk firmware](https://github.com/MangoIV/zmk.git)
-
-## Plans for the future
-- offer footprints for switches to cut off power in case of using a bluetooth controller
-- offer footprints to solder a battery on different places of the PCB
 
 ## Hardware availability
 - hardware availability is always a big problem and ordering everything yourself is a big hustle. Therefore I'm happy to tell you that Ben from keycapsss (not me) is so kind [to offer everything to make a full build](https://keycapsss.com/). 

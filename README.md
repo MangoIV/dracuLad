@@ -20,7 +20,7 @@ This is a 34-36-key-board.
 - basic ZMK Firmware (not all features implemented yet) exists on [my fork of the zmk firmware](https://github.com/MangoIV/zmk.git)
 
 ## Hardware availability
-- hardware availability is always a big problem and ordering everything yourself is a big hustle. Therefore I'm happy to tell you that Ben from keycapsss (not me) is so kind [to offer everything to make a full build](https://keycapsss.com/). 
+- hardware availability is always a big problem and ordering everything yourself is a big hustle. Therefore I'm happy to tell you that Ben from keycapsss (not me) is so kind [to offer everything to make a full build](https://keycapsss.com/). And for those of you who are American, [littlekeyboards](https://www.littlekeyboards.com/) (also not me) also offers kits
 - if you live in a remote area resulting in high shipping costs or problems with importing, gerbers for ordering the PCBs and SVGs for getting plates cut are available in this repo, too
 
 ## Things to consider before getting a DracuLad

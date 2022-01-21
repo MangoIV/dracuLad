@@ -58,6 +58,12 @@ At this point you should have a fully working keyboard barebone. Test the encode
 If not, try to correct your mistakes, don't lose your temper, most of the things can be corrected very easily.
 If you're debugging your keyboard under Linux, you can test the keys and the encoders by using ```xev -event keyboard``` and whether the keyboard is correctly recognised with ```dmesg --follow -H```. (Mind that you need proper rights to run this command.) 
 
+In the improbable case you're using nix, you can get the keyboard tester with 
+
+```nix
+nix-shell -p "xorg.xev" --run "xev -event keyboard"
+``` 
+
 ## Sixth step, solder in the switches
 - depending on whether you build it with or without plate, stick the switches through the plate and then through the pin holes. Solder the pins. 
 - mount the OLED cover, use the longer standoffs for that

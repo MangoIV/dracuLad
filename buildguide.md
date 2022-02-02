@@ -63,10 +63,6 @@ In the improbable case you're using nix, you can get the keyboard tester with
 ```nix
 nix-shell -p "xorg.xev" --run "xev -event keyboard"
 ``` 
-or, with flakes: 
-```nix
-nix shell nixpkgs#xorg.xev -c "xev -event keyboard"
-```
 
 ## Sixth step, solder in the switches
 - depending on whether you build it with or without plate, stick the switches through the plate and then through the pin holes. Solder the pins. 

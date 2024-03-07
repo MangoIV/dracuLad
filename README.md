@@ -1,8 +1,5 @@
 # The DracuLad keyboard
 This is a 34-36-key-board.
-
-**The firmware wasn't working upstream for a time now but the fix is on `master` again, thanks for your patience**
-
 ## Features
 - 36 keys, two of them can be replaced by rotary encoders making it support 34-36 keys and 2-4 encoders. 
 - bright RGB Underglow with WS2812b LEDs
